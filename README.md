@@ -30,7 +30,7 @@ Make sure Flutter is installed. [Get Flutter](https://flutter.dev/docs/get-start
 
 ### 2️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/flutter-app.git
+git clone https://github.com/danielhart1/Mini_Mart.git
 cd flutter-app
 ---
 
