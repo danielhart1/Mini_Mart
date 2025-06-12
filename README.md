@@ -34,17 +34,7 @@ git clone https://github.com/danielhart1/Mini_Mart.git
 cd flutter-app
 ---
 
-## 🚀 Setup & Run Instructions
 
-### 1️⃣ Install Flutter
-
-Make sure Flutter is installed. [Get Flutter](https://flutter.dev/docs/get-started/install)
-
-### 2️⃣ Clone the Repository
-
-```sh
-git clone https://github.com/yourusername/flutter-app.git
-cd flutter-app
 ### 3 Install Dependencies
 flutter pub get
 ### 4 Run the app
